@@ -3,7 +3,7 @@
 <h3 align="center">I'm interested in Microservices Architecture (MSA) in cloud environments using Spring Cloud.</h3>
 <br>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -14,7 +14,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 <br>
 <br>
 
