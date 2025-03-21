@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fceabb,100:f8b500&height=200&section=header&text=Hello,%20I'm%20DoHoon%20Park!&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35)
 
-<br>
-
 <div align="center">
   <table>
     <tr>
