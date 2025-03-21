@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fceabb,100:f8b500&height=200&section=header&text=Hello,%20I'm%20DoHoon%20Park!&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35)
 
-<h3 align="center">I'm interested in Microservices Architecture (MSA) in cloud environments using Spring Cloud.</h3>
 <br>
 
 <div align="center">
